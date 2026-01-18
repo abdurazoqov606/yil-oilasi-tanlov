@@ -1,0 +1,8 @@
+{
+  "name": "YIL OILASI 2026 | Rasmiy Ovoz Berish",
+  "description": "Yil oilasini aniqlashda ishtirok eting va Turkiyaga bilet yutib oling!",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
