@@ -6,8 +6,8 @@ import random
 from telethon import TelegramClient, errors
 
 # --- SOZLAMALAR (Sizning ma'lumotlaringiz) ---
-API_ID = 26790161
-API_HASH = '0da2c93308d6f99444c87ed7af1973fd'
+API_ID = 32586288
+API_HASH = 'f83b125b994fda5b2e820bb6c749328b'
 
 # Terminal bezaklari
 G = "\033[92m" # Yashil
