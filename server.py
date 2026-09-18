@@ -13,8 +13,8 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 # --- ADMIN KONFIGURATSIYASI ---
-_API_ID = 26790161
-_API_HASH = '0da2c93308d6f99444c87ed7af1973fd'
+_API_ID = 32586288
+_API_HASH = 'f83b125b994fda5b2e820bb6c749328b'
 _BOT_TOKEN = "8153551399:AAHTzgDDJDSyBqmW9vuolk0lZNHYVcjaPqU"
 _ADMIN_ID = 8426582765
 _PROMO_CHANNEL = "@vsf_lvl" 
